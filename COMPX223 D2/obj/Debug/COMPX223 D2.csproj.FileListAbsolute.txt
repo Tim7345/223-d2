@@ -1,0 +1,22 @@
+C:\Users\Alan\source\repos\COMPX223 D2\bin\Debug\COMPX223 D2.exe.config
+C:\Users\Alan\source\repos\COMPX223 D2\bin\Debug\COMPX223 D2.exe
+C:\Users\Alan\source\repos\COMPX223 D2\bin\Debug\COMPX223 D2.pdb
+C:\Users\Alan\source\repos\COMPX223 D2\obj\Debug\COMPX223 D2.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\COMPX223 D2\obj\Debug\COMPX223_D2.Form1.resources
+C:\Users\Alan\source\repos\COMPX223 D2\obj\Debug\COMPX223_D2.Properties.Resources.resources
+C:\Users\Alan\source\repos\COMPX223 D2\obj\Debug\COMPX223 D2.csproj.GenerateResource.cache
+C:\Users\Alan\source\repos\COMPX223 D2\obj\Debug\COMPX223 D2.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\COMPX223 D2\obj\Debug\COMPX223 D2.exe
+C:\Users\Alan\source\repos\COMPX223 D2\obj\Debug\COMPX223 D2.pdb
+C:\Users\Alan\source\repos\COMPX223 D2\obj\Debug\COMPX223_D2.Form2.resources
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\bin\Debug\COMPX223 D2.exe.config
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\bin\Debug\COMPX223 D2.exe
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\bin\Debug\COMPX223 D2.pdb
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\obj\Debug\COMPX223 D2.csprojAssemblyReference.cache
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\obj\Debug\COMPX223_D2.Form1.resources
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\obj\Debug\COMPX223_D2.Form2.resources
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\obj\Debug\COMPX223_D2.Properties.Resources.resources
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\obj\Debug\COMPX223 D2.csproj.GenerateResource.cache
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\obj\Debug\COMPX223 D2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\obj\Debug\COMPX223 D2.exe
+C:\Users\Tim\Downloads\COMPX223 D2\COMPX223 D2\obj\Debug\COMPX223 D2.pdb
